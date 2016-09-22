@@ -4,9 +4,6 @@ XSSER
 ### Presentation 
 * From XSS to RCE 2.0 - Black Hat Europe Arsenal 2015
 
-### Demo
-* https://www.youtube.com/playlist?list=PLIjb28IYMQgqqqApoGRCZ_O40vP-eKsgf
-
 Requirements
 ------------
 * Python (2.7.*, version 2.7.3 was used for development and demo)
@@ -39,10 +36,13 @@ Developed By
 ------------
 * Hans-Michael Varbaek
 * Sense of Security
+* InformaticDeath
+* Dead_*88
 
 Credits
 ------------
 * MaXe / InterN0T
+* InformaticDeath
 
 Code Design
 -----------
